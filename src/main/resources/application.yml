@@ -1,6 +1,6 @@
 spring:
   datasource:
-    url: jdbc:mysql://databasetesting.cmfalw9e8mwz.us-east-2.rds.amazonaws.com:3306/databasetesting
+    url: jdbc:mysql://gigacedi-3tier.cmfalw9e8mwz.us-east-2.rds.amazonaws.com:3306/databasetesting
     driver-class-name: com.mysql.cj.jdbc.Driver
     username: adminAngelo
     password: Mai1eryahoo=
